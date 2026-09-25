@@ -1,2 +1,0 @@
-# alxube.github.io
-alxube
