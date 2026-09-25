@@ -1,0 +1,23 @@
+.grande { font-size: 60px; color:#8892c6; }
+.mediano { font-size: 30px; color:#8892c6; }
+.pequeno { font-size: 15px; color:#8892c6; }
+
+a{
+  color: #8892c6;
+  text-decoration: none
+}
+
+a:hover{
+  color: #8892c6;
+  text-decoration: none
+}
+
+a:active{
+  color: #808dce;
+  text-decoration: none
+}
+
+body {
+  background-color: #21222c;
+  color: #ffffff; /* Texto blanco para contraste */
+}
